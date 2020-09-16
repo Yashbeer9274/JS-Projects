@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(22, 22, 22);
+  color: white;
+  margin-top: 0px;
+}
+#img {
+  margin: 0px 700px;
+  width: auto;
+  height: auto;
+  font-size: 120px;
+  text-align: center;
+}
+img:hover{
+  cursor: pointer;
+  height: 155px;
+  width: 155px;
+}
